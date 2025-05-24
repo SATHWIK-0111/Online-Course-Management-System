@@ -63,7 +63,5 @@ This project is an Online Course Management System, a full-stack web application
 
     [http://localhost:3000](http://localhost:3000)
 
-## Contributions
 
-Contributions are welcome! If you find a bug or want to add new features, please open an issue or submit a pull request.
 
